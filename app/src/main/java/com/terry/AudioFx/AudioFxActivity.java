@@ -88,9 +88,6 @@ public class AudioFxActivity extends Activity {
             }
         });
 
-        //setupVisualizerFxAndUi();
-        //setupEqualizeFxAndUi();
-
         //mVisualizer.setEnabled(true);
         mMediaPlayer.setOnCompletionListener(new OnCompletionListener() {
 
